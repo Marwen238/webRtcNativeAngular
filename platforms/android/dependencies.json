@@ -1,0 +1,42 @@
+[
+    {
+        "name": "@nstudio/nativescript-camera-plus",
+        "directory": "../../node_modules/@nstudio/nativescript-camera-plus"
+    },
+    {
+        "name": "nativescript-angular",
+        "directory": "../../node_modules/nativescript-angular"
+    },
+    {
+        "name": "nativescript-camera",
+        "directory": "../../node_modules/nativescript-camera"
+    },
+    {
+        "name": "nativescript-socketio",
+        "directory": "../../node_modules/nativescript-socketio"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "../../node_modules/nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-webrtc-plugin",
+        "directory": "../../node_modules/nativescript-webrtc-plugin"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "../../node_modules/nativescript-permissions"
+    },
+    {
+        "name": "nativescript-intl",
+        "directory": "../../node_modules/nativescript-intl"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    }
+]

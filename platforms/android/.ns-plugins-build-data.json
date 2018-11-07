@@ -1,0 +1,22 @@
+{
+	"@nstudio/nativescript-camera-plus": {
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/@nstudio/nativescript-camera-plus/platforms/android/include.gradle": "82c4e892ed7cabf56a8c9216f5ea887e03d018c2",
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/@nstudio/nativescript-camera-plus/platforms/android/nativescript-camera-plus.aar": "16f117e9ec3dbaac0cf1b163168470aa71a5235b",
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/@nstudio/nativescript-camera-plus/platforms/android/nativescript_camera_plus.aar": "023cdbbb9b608d74b09d1a60afe4249c34854f76"
+	},
+	"nativescript-camera": {
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-camera/platforms/android/include.gradle": "3b224fc93af3e858d204fe68c65871f0d0587594",
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-camera/platforms/android/nativescript_camera.aar": "e37d4be0bcbf4f135092570d7c433f0bfe3c184d"
+	},
+	"nativescript-socketio": {
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-socketio/platforms/android/fancylogger-release.aar": "3d953e0e92d87fa89414276ac07edc7347a92b5d",
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-socketio/platforms/android/include.gradle": "c541a1b67002137b77d5038c1424589f066408d9"
+	},
+	"nativescript-webrtc-plugin": {
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-webrtc-plugin/platforms/android/fancywebrtc-release.aar": "1adf2504bb21b8f32d16c6f626a6012c5d6fa46e",
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/nativescript-webrtc-plugin/platforms/android/libwebrtc.aar": "7cca64bcda27e34dc71d81717f57c325dc4b2e61"
+	},
+	"tns-core-modules-widgets": {
+		"/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "402875596039fd16198e0e4adbb85e44a4ff148d"
+	}
+}

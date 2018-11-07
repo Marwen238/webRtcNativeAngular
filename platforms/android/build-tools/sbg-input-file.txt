@@ -1,0 +1,1 @@
+/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/platforms/android/app/src/main/assets/app

@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "nativescript-na-camera@1.2.0",
+      "/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng"
+    ]
+  ],
+  "_from": "nativescript-na-camera@1.2.0",
+  "_id": "nativescript-na-camera@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-J0+3BMkQjCJyfxaf/zBJLWJsA2A=",
+  "_location": "/nativescript-na-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-na-camera@1.2.0",
+    "name": "nativescript-na-camera",
+    "escapedName": "nativescript-na-camera",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-na-camera/-/nativescript-na-camera-1.2.0.tgz",
+  "_spec": "1.2.0",
+  "_where": "/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng",
+  "author": {
+    "name": "Filip Nordling",
+    "email": "nordlingfilip@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nordlingart/nativescript-na-camera/issues"
+  },
+  "description": "A NativeScript camera plugin",
+  "gitHead": "c7e662a2781c74949c9c941c62077cf66b97b000",
+  "homepage": "https://github.com/nordlingart/nativescript-na-camera#readme",
+  "keywords": [
+    "NativeScript",
+    "Nordling Art",
+    "Camera"
+  ],
+  "main": "camera.js",
+  "name": "nativescript-na-camera",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.7.0"
+    },
+    "tns-ios": {
+      "version": "2.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordlingart/nativescript-na-camera.git"
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,4 @@
+#Tue Nov 06 18:16:17 CET 2018
+base.0=/home/mbd/workspace/MyTests/nativescript-webrtc/demo-ng/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
